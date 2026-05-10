@@ -124,8 +124,8 @@ Never commit `application.properties` — it contains secrets.
 
 **YOUR_NAME** — B.Tech CSE, YOUR_COLLEGE_NAME (2025)
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/YOUR_LINKEDIN)
+- GitHub: awaneetdecoder(https://github.com/awaneetdecoder)
+- LinkedIn: Awaneet Mishra(https://www.linkedin.com/in/awaneet-mishra-6b6b952b0/)
 - Project demo: [YouTube link or APK link]
 
 ---
